@@ -1,0 +1,17 @@
+## Prompt 1:“Summarize my bank loan dashboards in 4–5 points. Highlight main keys and recommend actions.”
+
+## AI Response:
+
+Bank Loan Dashboards Summary:
+
+1. 📈 Strong Loan Volume: 38.6K total applications with consistent monthly inflow. Good loans dominate at 86.18%, indicating solid underwriting standards.
+2. 💸 Financial Health: $435.8M funded and $473.1M received for good loans. Bad loans show zero recovery—highlighting risk exposure.
+3. 🧮 Risk Segmentation: Interest rates and DTI ratios rise sharply from Grade A to G. Grade-based profiling is crucial for risk mitigation.
+4. 🎯 Purpose & Tenure Trends: Debt consolidation and credit card loans are most common. 36-month terms are preferred, suggesting borrower inclination toward shorter commitments.
+5. 🏠 Ownership & Default Patterns: Renters form the largest applicant group. Charged-off and late loans (~9K) need targeted recovery strategies.
+
+✅ Recommended Actions:
+- Enhance recovery mechanisms for bad loans.
+- Refine grade-based interest and DTI thresholds.
+- Prioritize debt consolidation segment with tailored products.
+- Monitor renter segment for default risk.
